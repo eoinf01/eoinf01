@@ -5,9 +5,8 @@
 <h3>About Me:</h3>
 
 - 👨🏼‍🎓I'm currently pursuing a degree in Software Development at MTU.
-- 💪I'm currently working on a Flutter mobile app.
+- 💪I'm currently working on a MacOS application to interface with Airoha chipset.
 - 📚I'm learning Javascript/React/CSS/Flutter and Docker at the moment.
-- 👨‍🏫I'm interning as a Technical Support Engineer at VMWare Tanzu.
 <hr>
 
 <h3>Socials:</h3>
